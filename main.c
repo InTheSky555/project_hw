@@ -6,3 +6,4 @@ void main()
 	printf("hello world\r\n");
 	
 }
+//for the 'debug' version
