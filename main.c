@@ -6,4 +6,5 @@ void main()
 	printf("hello world\r\n");
 	
 }
+//for the remote master
 //for the 'debug' version
